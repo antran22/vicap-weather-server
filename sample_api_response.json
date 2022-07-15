@@ -1,0 +1,203 @@
+{
+    "resolvedAddress": "Đà Lạt, Việt Nam",
+    "address": "Da Lat",
+    "days": [
+        {
+            "datetime": "2022-01-01",
+            "hours": [
+                {
+                    "datetime": "00:00:00",
+                    "temp": 17.0,
+                    "humidity": 90.88,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "01:00:00",
+                    "temp": 17.1,
+                    "humidity": 90.89,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "02:00:00",
+                    "temp": 17.0,
+                    "humidity": 92.05,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "03:00:00",
+                    "temp": 17.0,
+                    "humidity": 92.64,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "04:00:00",
+                    "temp": 17.0,
+                    "humidity": 92.64,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "05:00:00",
+                    "temp": 16.9,
+                    "humidity": 92.64,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "06:00:00",
+                    "temp": 17.4,
+                    "humidity": 90.91,
+                    "solarradiation": 57.9,
+                    "solarenergy": 0.2,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "07:00:00",
+                    "temp": 19.2,
+                    "humidity": 84.91,
+                    "solarradiation": 244.2,
+                    "solarenergy": 0.9,
+                    "uvindex": 2.0
+                },
+                {
+                    "datetime": "08:00:00",
+                    "temp": 21.0,
+                    "humidity": 79.4,
+                    "solarradiation": 435.9,
+                    "solarenergy": 1.6,
+                    "uvindex": 4.0
+                },
+                {
+                    "datetime": "09:00:00",
+                    "temp": 22.7,
+                    "humidity": 74.8,
+                    "solarradiation": 582.8,
+                    "solarenergy": 2.1,
+                    "uvindex": 6.0
+                },
+                {
+                    "datetime": "10:00:00",
+                    "temp": 24.0,
+                    "humidity": 71.36,
+                    "solarradiation": 645.0,
+                    "solarenergy": 2.3,
+                    "uvindex": 6.0
+                },
+                {
+                    "datetime": "11:00:00",
+                    "temp": 24.9,
+                    "humidity": 69.33,
+                    "solarradiation": 722.3,
+                    "solarenergy": 2.6,
+                    "uvindex": 7.0
+                },
+                {
+                    "datetime": "12:00:00",
+                    "temp": 25.4,
+                    "humidity": 68.14,
+                    "solarradiation": 721.0,
+                    "solarenergy": 2.6,
+                    "uvindex": 7.0
+                },
+                {
+                    "datetime": "13:00:00",
+                    "temp": 25.5,
+                    "humidity": 67.73,
+                    "solarradiation": 633.8,
+                    "solarenergy": 2.3,
+                    "uvindex": 6.0
+                },
+                {
+                    "datetime": "14:00:00",
+                    "temp": 25.2,
+                    "humidity": 69.38,
+                    "solarradiation": 501.5,
+                    "solarenergy": 1.8,
+                    "uvindex": 5.0
+                },
+                {
+                    "datetime": "15:00:00",
+                    "temp": 24.4,
+                    "humidity": 73.24,
+                    "solarradiation": 316.0,
+                    "solarenergy": 1.1,
+                    "uvindex": 3.0
+                },
+                {
+                    "datetime": "16:00:00",
+                    "temp": 23.3,
+                    "humidity": 79.23,
+                    "solarradiation": 133.4,
+                    "solarenergy": 0.5,
+                    "uvindex": 1.0
+                },
+                {
+                    "datetime": "17:00:00",
+                    "temp": 21.5,
+                    "humidity": 86.76,
+                    "solarradiation": 10.0,
+                    "solarenergy": 0.0,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "18:00:00",
+                    "temp": 20.6,
+                    "humidity": 87.22,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "19:00:00",
+                    "temp": 20.0,
+                    "humidity": 86.61,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "20:00:00",
+                    "temp": 19.5,
+                    "humidity": 86.57,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "21:00:00",
+                    "temp": 19.1,
+                    "humidity": 87.63,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "22:00:00",
+                    "temp": 18.8,
+                    "humidity": 88.73,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                },
+                {
+                    "datetime": "23:00:00",
+                    "temp": 18.6,
+                    "humidity": 89.84,
+                    "solarradiation": 0.0,
+                    "solarenergy": null,
+                    "uvindex": 0.0
+                }
+            ]
+        }
+    ]
+}
